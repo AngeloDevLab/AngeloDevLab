@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Angelo 👋</h1>
+<h1 align="center">Hi, I'm Angelo</h1>
 
 ###
 
-<p align="center">Currently learning, experimenting, and building my developer skillset.<br><br>Diving into web development with HTML, CSS & JavaScript.<br>Exploring new tools, workflows, and technologies step by step.<br><br>System Odyssey is my hobby & long-term playground project 🚀<br>More refined projects coming over time.</p>
+<p align="center">Currently learning, experimenting, and building my developer skillset.<br><br>Diving into web development with HTML, CSS & JavaScript.<br>Exploring new tools, workflows, and technologies step by step.<br><br>With a passion for game development — bringing own ideas to life, building and expanding systems, and iterating endlessly.<br>More refined projects coming over time.</p>
 
 ###
 
